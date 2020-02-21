@@ -2,10 +2,11 @@ language: node_js
 node_js:
   - 12
 install: npm install
-script: cd backend
-        npm test
 addons:
   sonarcloud:
     organization: "el-bid" 
     token:
       secure: "qzFMbuYRupioeJDbLPUjLxzqTZ2vnihjVfuOekFMl7RsyMISYpcx+ZLRTwIcu/343JTuZRCBWPL7S5lc3yPrGdyd1sBlu7gHYZZLzbknbMO9PPx0aaVPLO6eGgo6DeWLCTtlBxSMcGgYFPVop4BYjVcbKfGZbd1XmMSeqczX9zHCnSTvoVBKMfNmpcz9JZxiUjtA/yVGRR+tGyP12yhxN7aF29W2CDqYTbBRGOFJQdtSxFNrw4FOtUKK2pBm7c/88JlRSk5pTTTt/hKnWc0g25DkT4FHqghK33/Bi6nqoAxidGC5MZGWEmcwMtZRkGvOsYZO9TXcYw5ENo4/pS5X/q2OQjopahKANY3kUuROlwBd/kaX49W+76nHDnS2jugKMEjK78rF96KEn+wtK4L6rxydm/glKIip8uw5hwQKADuwGxtuxga8+xl+4HbnRFOqkYhFiBbiQtJuvLPxZEc9T6jnKBaxtvIBggYEX4FmuCcEoOFmHk8huXhwKv1fRvbTpFO+RC+DlN+1xusLf7OrUwt1fPwHwXcGyxE/Er16k0koCMQr20BGvNdNnlL3H7FY6QhjGAnbJ4KD4PFHXG/XMMqrOmLUhIIeNIdj4N0MWAI7j9CPR4UkTXz7Rv7o6qiOLlRaB5mDemVdn7Xm41VIPJhJU0Me6pRhGEN2Df2PfwU="
+
+script: cd backend
+        npm test
