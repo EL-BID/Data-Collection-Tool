@@ -118,3 +118,4 @@ _Equipo técnico de **GEO Studio**_ *<a href=https://geostudio.com.co target="_b
 * **Juan David Linares** - *Desarrollo Frontend*
 * **Adriana Martínez** - *Desarrollo Backend*
 * **Oscar Corredor** - *Arquitectura del Software*
+++
