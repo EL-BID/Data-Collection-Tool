@@ -1,3 +1,5 @@
+[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/Data-Collection-Tool/readme?useReferer)](https://github.com/EL-BID/Data-Collection-Tool/)
+
 ## Data Collection Tool
 
 [![Build Status](https://travis-ci.com/geo-studio/Data-Collection-Tool.svg?branch=master)](https://travis-ci.com/geo-studio/Data-Collection-Tool)
